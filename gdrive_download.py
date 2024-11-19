@@ -1,7 +1,7 @@
 import gdown
 
 # File ID from Google Drive link
-file_id = '1J2wykqkGdRe5ttM1OJf_TsiPD5JO-qlb'
+file_id = 'XYZ'
 
 # Construct the download URL
 url = f'https://drive.google.com/uc?id={file_id}'
